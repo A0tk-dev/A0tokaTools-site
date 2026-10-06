@@ -1,6 +1,6 @@
 /* ===== A0tokatools 共通設定(ここだけ書き換えればOK) ===== */
 window.SITE = {
-  APP_URL: "https://ao-soundbutton.netlify.app/",   // SoundButton(ブラウザ版)
+  APP_URL: "https://ao-soundbutton.vercel.app/",   // SoundButton(ブラウザ版)
   DOWNLOAD_URL: "",                                  // ★ exeのダウンロードURL(GitHub Releasesなど)。空欄の間は「準備中」と表示
   VERSION: "1.1.0",
   DISCORD: "https://discord.gg/bUBHtz7wdF",

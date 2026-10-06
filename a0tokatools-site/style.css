@@ -38,3 +38,5 @@ footer{margin-top:40px;border-top:1px solid var(--border);background:var(--panel
 @media(max-width:720px){#navbtn{display:inline-block}nav.main{display:none;position:absolute;top:62px;left:0;right:0;flex-direction:column;align-items:stretch;background:var(--panel);border-bottom:1px solid var(--border);padding:10px 16px}body.navopen nav.main{display:flex}.hero{padding:56px 0 36px}.pd{grid-template-columns:1fr;text-align:center;padding-top:40px}.pd img{margin:auto;width:130px;height:130px}.actions{justify-content:center}.btn{width:100%}th{width:40%}}
 
 .logo img{width:30px;height:30px;object-fit:contain}.hl{margin:0 auto 14px;height:88px}.hl img{height:88px;width:88px;object-fit:contain}
+
+.li-dark{display:block}.hl{display:flex;justify-content:center}.logo img,.appcard .head img{flex:none}
