@@ -1,7 +1,7 @@
 /* ===== A0tokatools 共通設定(ここだけ書き換えればOK) ===== */
 window.SITE = {
   APP_URL: "https://ao-soundbutton.vercel.app/",   // SoundButton(ブラウザ版)
-  DOWNLOAD_URL: "",                                  // ★ exeのダウンロードURL(GitHub Releasesなど)。空欄の間は「準備中」と表示
+  DOWNLOAD_URL: "https://github.com/A0tk-dev/A0tokaTools-site/releases/latest/download/SoundButton-Setup.exe",                                  // ★ exeのダウンロードURL(GitHub Releasesなど)。空欄の間は「準備中」と表示
   VERSION: "1.1.0",
   DISCORD: "https://discord.gg/bUBHtz7wdF",
   MAIL: "info.a0tkdeveloper@gmail.com"
